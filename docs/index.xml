@@ -20,10 +20,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>My First Post</title>
-      <link>http://oblivious.gay/post/my-first-post/</link>
+      <link>http://oblivious.gay/posts/my-first-post/</link>
       <pubDate>Mon, 29 Nov 2021 02:17:39 +0000</pubDate>
       
-      <guid>http://oblivious.gay/post/my-first-post/</guid>
+      <guid>http://oblivious.gay/posts/my-first-post/</guid>
       <description>Hello world!</description>
     </item>
     
