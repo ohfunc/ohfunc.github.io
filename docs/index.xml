@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Nov 2021 02:17:39 +0000</lastBuildDate><atom:link href="http://oblivious.gay/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://oblivious.gay/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://oblivious.gay/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>http://oblivious.gay/post/my-first-post/</link>
       <pubDate>Mon, 29 Nov 2021 02:17:39 +0000</pubDate>
