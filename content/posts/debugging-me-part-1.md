@@ -8,7 +8,7 @@ I recently read over [Debugging Teams](http://debuggingteams.com) at the suggest
 of one of my mentors, and wanted a place to dump my thoughts on the book. This is
 that place. The content here is fairly personal, with most of the things revolving
 around *me*, but hopefully they may serve some use to others as well. So, without further ado
-let's dive into the content of the book. This first part covers HRT, the main theme of the book. Part 2 will go over team culture, and part 3 will focus on engineering vs operations.
+let's dive into the content of the book. Part 2 will go over team culture, and part 3 will focus on engineering vs operations.
 
 ## HRT
 
@@ -43,10 +43,14 @@ I often find it hard to accept criticism of my work, and it has a pretty dramati
 1. Receive a ton of *helpful* criticism and feedback from my peers.
 1. Take the feedback as an insult of my skills/knowledge/ego, get frustrated and upset, and lose all motivation to work on the project.
 
-There's two obvious problems I see with my current workflow. The quote focuses on step four, where I'm assuming that the person criticizing my work doesn't mean well and is calling *me* bad, rather than assuming they are trying to *help* me and calling the *project* "bad." This behavior isn't easy to fix, but my best bet is to try and remind myself that this is the case whenever I receive feedback. 
+There's two obvious problems I see with my current workflow. The quote focuses on step four, where I'm assuming that the person criticizing my work doesn't mean well and is criticizing *me*, rather than assuming they are trying to help and criticizing the *project*. This behavior isn't easy to fix, but my best bet is to try and remind myself that this is the case whenever I receive feedback. 
 
 The other glaring problem is step one, where I'm trying to do all the work in marathon format. I get a cool idea and then go hide away to design and/or implement it all at once. A better approach would be to treat projects as fast, iterative loops. Do some small/medium amount of work and send it for feedback early on, and keep doing this until the project is either finished or gets shot down. This way if I have a "bad" or ill formed idea it will get corrected or turned down quickly, when I haven't put as much effort in. 
+
+As an example, I had to do this just now for this blog post! I started to try and critique the whole book in one go, and after a month of not making progress I realized I should just submit what I had but in smaller, more iterative posts. This gives me a chance to hear critique (from you, the reader) and to iterate on my writing style, rather than trying to make my first (and so far, only) post perfect.
 
 > Even better, think about going for a "collective" ego instead; rather than worrying about whether you’re personally awesome, try to build a sense of team accomplishment and group pride. 
 
 Finally, I think this idea of a "collective ego" is really powerful. I'm often focused on making *myself* feel awesome, when I should be focusing on making the *team* feel awesome. 
+
+Thank you for reading! I hope to have part two written in a few weeks, focusing on team culture.
