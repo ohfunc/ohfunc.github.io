@@ -4,13 +4,34 @@ date: 2022-01-17T16:36:47Z
 draft: true
 ---
 
+Welcome back to my Debugging Me series, where I review [Debugging Teams](http://debuggingteams.com) and dig into how it applies to myself. This is part 2, which focuses on team culture. If you haven't already, you might consider checking out [Part 1]({{< ref "debugging-me-part-1.md" >}}, "Part 1"), where I discussed the basic premise of the book (HRT) and how you might employ it better.
+
+## Why do I need a team again?
+
+While this question can sound silly at first, it makes some sense! If I can go hide in a cave and be productive by myself for hours at a time, emerging with a working product after a few days, why do we need a team at all? It turns out that teams can get more done while also increasing the [bus factor](https://en.wikipedia.org/wiki/Bus_factor)! Sure, teams carry way more overhead, and communication can be annoying and difficult, but it's way less likely that you'll ship a product with a million lines of code by yourself, as opposed to with 30 of your peers.
+
+Touching a bit on the bus factor -- you can see this anecdotally via open source projects. If someone works on a great project all on their own and then loses interest, there's not much hope for the project without just branching and moving on. 
+
+So, if you're on a team, how do you actually.. uh.. you know, get things done?
+
 ## Engineering Without Direction
 
+
+> A boat without a captain is nothing more than a floating waiting room—unless someone grabs the rudder and starts the engine, it’s just going to drift along aimlessly with the current. A project is just like that boat: if no one pilots it, you’re left with a group of geeks just sitting around waiting for something to happen. 
+
+This is one of the metaphores in the book that has stuck with me the most, especially because I see a lot of (bad) similarities in the way I get work done. I often find myself with no goal at the beginning of the day and just flowing with what comes along. To be fair, this statement is talking about *projects*, not *individual contributions*, but there's still some points that can be shared between the two. Something I have and hope to continue to do is I start every day by writing down what I want to get done (employing many of the practices in [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management)). This ensures that, even if it's not what I should be doing, at least I did it with some intention! I would recommend, and plan to, treating projects the same way. If you're passionate about something then push it! Be the captain of your boat, even if that just means moving the rudder by a few inches every day. 
+
+What does moving that rudder actually look like? 
+
+## Leading Teams
+
+This section is, as you've probably noticed, titled "leading teams." Don't be fooled! This does or will apply to you! Keep in mind that teams often work on multiple *projects*, and each of those projects, as mentioned above, needs a captain. That captain can't (nor should it) always be the official "team lead", if you have one. I will continue to use "team" lead throughout this section, but I'd like you to imagine replacing each instance with "project lead" or even just "project contributor". 
+
+The book has a **enormous** amount of helpful tips on how to effectively lead teams, starting with this gem: the most common thing a team leader does is **build consensus**. This can be as straightfoward as it sounds, in some cases -- you literally just get a bunch of people to agree on something. Sometimes this means steering the boat all day every day, and other times it means just giving the boat a little nudge here in there to keep it going the right direction.
+
+Being a team lead also means helping to remove roadblocks for your project or team. Granted, you can't always remove the roadblocks yourself, but it's good to know at least *who* can help. This is one of those unfortunate situations in which "it's not what you know, but who you know" rings very true.
+
 <!--
-
-A boat without a captain is nothing more than a floating waiting room—unless someone grabs the rudder and starts the engine, it’s just going to drift along aimlessly with the current. A project is just like that boat: if no one pilots it, you’re left with a group of geeks just sitting around waiting for something to happen. 
-
-
 If you’re an engineer, it’s sometimes difficult to resist the urge to take a running leap into writing code for a new project, but this is rarely fruitful (unless you’re throwing together a quick and dirty prototype). Just the same, many engineers rush right into coding before designing the software they intend to write, and this usually ends very badly.
 
 
@@ -23,14 +44,8 @@ It’s possible to employ HRT here: be kind and empathetic when delivering const
 ## Leading Teams
 
 <!--
-One of the most common things a team leader does is to build consensus. This may mean you drive the process from start to finish, or you just give it a gentle push in the right direction to speed it up
 
 When a team member asks you for advice, it’s usually pretty exciting because you’re finally getting the chance to fix something! That’s exactly what you did for years before moving into a leadership position, so you usually go leaping into solution mode, but that is the last place you should be. The person asking for advice typically doesn’t want you to solve her problem, but rather to help her solve it, and the easiest way to do this is to ask her questions.
-
-
-a single, carefully considered adjustment can have gigantic effects. Ben tries to use this technique when managing people. He imagines his team as flying around in a great blimp, headed slowly and surely in a certain direction. Instead of micromanaging and trying to make continuous course corrections, he spends most of his week carefully watching and listening. At the end of the week he makes a small chalk mark in a precise location on the blimp, then gives a small but critical "tap" to adjust the course.
-
-You don’t have to know all the answers to help remove roadblocks, but it usually helps to know the people who do. In many cases, knowing the right person is more valuable than knowing the right answer.
 
 Individual successes and failures are a bit different. It’s one thing to laud individual successes, but looking to assign individual blame in the case of failure is a great way to divide a team and discourage risk taking across the board. It’s OK to fail, but fail as a team and learn from your failures. If an individual succeeds, praise him in front of the team. If an individual fails, give constructive criticism in private.
 
